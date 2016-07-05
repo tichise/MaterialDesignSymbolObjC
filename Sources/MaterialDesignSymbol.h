@@ -2,7 +2,7 @@
 @interface MaterialDesignSymbol : NSObject
 
 + (instancetype)iconWithCode:(NSString *)code fontSize:(CGFloat)fontSize;
-
+- (UIImage *)imageWithSize:(CGSize)imageSize;
 - (UIImage *)image;
 
 - (void)addAttributes:(NSDictionary *)attributes;
