@@ -15,5 +15,17 @@ Link: https://github.com/google/material-design-icons
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
+#### Examples
+
+##### Image
+
+```html
+MaterialDesignSymbol *symbol = [MaterialDesignSymbol iconWithCode:MaterialDesignIconCode.home48px fontSize:30.f];
+[symbol addAttribute:NSForegroundColorAttributeName value:[UIColor blackColor]];
+
+UIImage *image = [symbol image];
+UIImage *image = [symbol imageWithSize:CGSizeMake(30, 30)];
+```
+
 #### Installation (CocoaPods)
 `pod MaterialDesignSymbolObjC`
