@@ -20,6 +20,8 @@ Creative Commons Attribution 4.0 International (CC BY 4.0)
 ##### Image
 
 ```html
+#import "MaterialDesignSymbol.h"
+
 MaterialDesignSymbol *symbol = [MaterialDesignSymbol iconWithCode:MaterialDesignIconCode.home48px fontSize:30.f];
 [symbol addAttribute:NSForegroundColorAttributeName value:[UIColor blackColor]];
 
