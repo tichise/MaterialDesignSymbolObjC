@@ -24,7 +24,7 @@ MaterialDesignSymbol *symbol = [MaterialDesignSymbol iconWithCode:MaterialDesign
 [symbol addAttribute:NSForegroundColorAttributeName value:[UIColor blackColor]];
 
 UIImage *image = [symbol image];
-UIImage *image = [symbol imageWithSize:CGSizeMake(30, 30)];
+// UIImage *image = [symbol imageWithSize:CGSizeMake(30, 30)];
 ```
 
 #### Installation (CocoaPods)
