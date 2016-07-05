@@ -15,18 +15,5 @@ Link: https://github.com/google/material-design-icons
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-
-#### Examples
-
-##### Image
-
-```html
-```
-
-##### Text
-
-```html
-```
-
 #### Installation (CocoaPods)
 `pod MaterialDesignSymbolObjC`
