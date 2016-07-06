@@ -3,7 +3,7 @@
 
 <img src="https://s3.amazonaws.com/cocoacontrols_production/uploads/control_image/image/6377/_____.png" width="160px">
 
-Icon font library for Objective C. Currently supports GoogleMaterialDesignIcons
+Icon font library for Objective C. Currently supports GoogleMaterialDesignIcons. Swift version is [here](https://github.com/tichise/MaterialDesignSymbol).
 
 Googleのマテリアルデザインアイコンをシンボルフォントで呼び出せるObjectiveCライブラリです。
 
