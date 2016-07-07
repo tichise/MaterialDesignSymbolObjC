@@ -5,7 +5,7 @@
 
 Icon font library for Objective C. Currently supports GoogleMaterialDesignIcons. Swift version is [here](https://github.com/tichise/MaterialDesignSymbol).
 
-Googleのマテリアルデザインアイコンをシンボルフォントで呼び出せるObjectiveCライブラリです。
+Googleのマテリアルデザインアイコンをシンボルフォントで呼び出せるObjectiveCライブラリです。Swift版は [こちら](https://github.com/tichise/MaterialDesignSymbol).
 
 #### Licence
 font used in this project
@@ -35,12 +35,10 @@ UIImage *image = [symbol image];
 #### Related products
 
 - Font Library
- - Swift
-  - [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol)
-  - [EntypoSymbo](https://github.com/tichise/EntypoSymbol)
- - ObjectiveC
-  - [MaterialDesignSymbolObjC](https://github.com/tichise/MaterialDesignSymbolObjC)
-  - [EntypoSymboObjC](https://github.com/tichise/EntypoSymbolObjC)
+ - [MaterialDesignSymbol](https://github.com/tichise/MaterialDesignSymbol) Swift
+ - [EntypoSymbol](https://github.com/tichise/EntypoSymbol) Swift
+ - [MaterialDesignSymbolObjC](https://github.com/tichise/MaterialDesignSymbolObjC) ObjectiveC
+ - [EntypoSymbolObjC](https://github.com/tichise/EntypoSymbolObjC) ObjectiveC
 - Color Library
   - [MaterialDesignColor](https://github.com/tichise/MaterialDesignColor) Swift
   - [MaterialDesignColorObjC](https://github.com/tichise/MaterialDesignColorObjC) ObjectiveC
